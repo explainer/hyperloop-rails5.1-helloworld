@@ -7,7 +7,7 @@ end
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 5.1.0.rc1'
+gem 'rails', '5.1.0'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
@@ -57,4 +57,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #gem 'hyperloop', git: 'https://github.com/ruby-hyperloop/hyperloop.git', ref: '82f4c14eed116f0d1855782b452385946faf9df3'
 gem 'hyperloop'
-gem 'hyperloop-config', git: 'https://github.com/ruby-hyperloop/hyperloop-config.git'
+
